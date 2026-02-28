@@ -1,0 +1,14 @@
+def fun(x):
+    x=10
+    #print(x)
+x=15
+fun(x)
+print(x)
+#x=x is a global variable here.changing its value locally will not reflect
+
+
+def fun(l):
+    l.append(15)
+l=[10,20,25]
+fun(l)
+print(l)

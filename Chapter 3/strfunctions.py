@@ -1,0 +1,9 @@
+name="sumit"
+print(len(name))
+print(name.endswith("mit"))
+print(name.startswith("mit"))
+print(name.capitalize())
+print(name.count("i"))
+print(name.find("mi"))
+print(name.replace("mi","im"))
+print(name)
