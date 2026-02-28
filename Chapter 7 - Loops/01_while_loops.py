@@ -7,4 +7,5 @@ while(i<5):
 ''' another expression of infinite loop is
 while true:
     print("Sumit Roy)
+    
     '''
